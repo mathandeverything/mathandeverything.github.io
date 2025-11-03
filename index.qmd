@@ -1,0 +1,85 @@
+---
+title: "Math and Everything Resources for Teachers in Northern New York"
+subtitle: "Provided by Faculty in the Department of Mathematics, Computer Science, and Statistics, St. Lawrence University"
+title-block-banner: false
+format: html
+toc: false
+---
+
+
+
+## Overview
+Each module below is designed for use in a mathematics class or math club event. Each is designed to last about 35 – 40 minutes for a class or up to an hour for a math club event. Each is all-inclusive, with no prerequisites and supplying everything needed. 
+
+We want to make your life easier! Use them when you need a class for a substitute or for a fun math club event or however you find them useful. We will continue to add additional modules so check back in whenever you have need for a “class-in-a-box!”
+
+## Modules
+
+::: {.callout-note collapse="true"}
+### Math and Urban Planning
+Below you will find links to a short (about 20 minutes) video and two worksheets.  The materials are designed to work well for either a 40-minute class or a math club activity of an hour or so.  Feel free to use the materials in whatever way works best for you.  
+
+In using the materials, the worksheets should be printed out in advance for use by the students (in groups or individually).  The video has two places in it where the instructor is asked to pause the video and have the students work on the worksheets.  I think they will enjoy them!
+
+[Math and Urban Planning Video](https://youtu.be/nc9eXbTJEFo){target="_blank"}
+
+[Math and Urban Planning Worksheet 1](urban/MathandUrbanPlanning-Worksheet1.docx){target="_blank"}
+
+[Math and Urban Planning Worksheet 2](urban/MathandUrbanPlanning-Worksheet2.docx){target="_blank"}
+
+Provided by Patti Frazer Lock, St. Lawrence University, [plock@stlawu.edu](mailto:plock@stlawu.edu).
+
+Feel free to share with others.
+
+:::
+
+
+::: {.callout-note collapse="true"}
+### Fractals:  The Geometry of Nature
+
+Below you will find links to a short (about 20 minutes) video and supporting documents for three activities. The first activity has two documents while the remaining two activities are each one document.  The materials are designed to work well for either a 40-minute class or a math club activity of an hour or so.  Feel free to use the materials in whatever way works best for you!
+ 
+In using the materials, the worksheets should be printed out in advance for use by the students (in groups or individually).  The video has three places in it where the instructor is asked to pause the video and have the students work on the worksheets.  
+ 
+For the first activity they will need a straightedge and a way to measure a common distance. I have provided a “ruler” at the bottom of the activity sheet that can be cut out. Alternatively, each student/group could use a standard ruler. They will just want to make sure that their “unit length” matches the lengths at the bottom of the activity sheet.
+
+[Fractals - The Geometry of Nature Video](https://youtu.be/X29cAUNi-EM){target="_blank"}
+
+[Activity 1 - Coast Map](fractals/Fractals-Activity 1-Coast Length.docx){target="_blank"}
+
+[Activity 1 - Worksheet](fractals/Fractals-Activity 1-Prompts.docx){target="_blank"}
+
+[Activity 2 - Worksheet](fractals/Fractals-Activity 2-Prompts.docx){target="_blank"}
+
+[Activity 3 - Worksheet](fractals/Fractals-Activity 3-Prompts.docx){target="_blank"}
+
+Provided by Dan Look, St. Lawrence University, [dlook@stlawu.edu](mailto:dlook@stlawu.edu)
+
+Feel free to share with others.  I hope they have fun with this!
+
+:::
+
+
+::: {.callout-note collapse="true"}
+### Data Science and Basketball
+
+The links below provide a classroom activity on an introductory machine learning algorithm called k-nearest-neighbors, applied to a small NBA basketball data set.
+ 
+The structure of the resources is as follows:
+ 
+- (~ 10 minutes). [First Video](https://youtu.be/bT1LPswj1QY){target="_blank"} introducing what k-nearest-neighbors is and what classification is.
+- (~ 10 minutes). Students should then complete “Part 1” of the attached worksheet.  [knn_worksheet.pdf](knn/knn_worksheet.pdf){target="_blank"}
+
+- (~ 7 minutes). [Second Video](https://youtu.be/JICf6OuBEk8){target="_blank"} introducing a confusion matrix and a classification rate.
+
+- (~ 10 minutes). Students should then complete the rest of the attached worksheet.
+
+- (~ 3 minutes). [Third Video](https://youtu.be/TzsUJAxAcxw){target="_blank"} wrapping up some of the concepts discussed. 
+ 
+Additionally, there is also a [solutions file](knn/knn_worksheet_solutions.pdf){target="_blank"} to the questions posed in the worksheet.  Students should not need any additional materials to complete the worksheets. I hope you and your students enjoy the activity!
+ 
+Provided by Matt Higham, St. Lawrence University, [mhigham@stlawu.edu](mailto:mhigham@stlawu.edu)
+
+Feel free to share with others.  
+
+:::
